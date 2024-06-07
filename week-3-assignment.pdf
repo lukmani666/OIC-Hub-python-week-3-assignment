@@ -1,0 +1,29 @@
+Question 1: Convert a list [1, 2, 3, 6, 10] to a tuple.
+
+Question 2: concatenate the two tuples (1, 2) and (3, 4).
+
+Question 3: Write a function that takes a tuple and returns the tuple reversed.
+
+Question 4: Write a function that returns the length of a tuple.
+
+Question 5: How do you unpack a tuple (10, 20, 30) into variables a, b, and c?
+
+Question 6: Write a function that merges two dictionaries.
+
+Question 7: How do you access the value of key b in the dictionary {'a': 1, 'b': 2}?
+
+Question 8: Write a function that checks if a key exists in a dictionary.
+
+Question 9: How can you iterate through all key-value pairs in the dictionary {'a': 1, 'b': 2}?
+
+Question 10: Write a function that returns a dictionary with keys and values swapped.
+
+Question 11: Write a function that handles division by zero using a try-except block.
+
+Question 12: How can you catch multiple exceptions in a single except block?
+
+Question 13: Write a function that raises a custom exception if the input is not a positive integer.
+
+Question 14: Write a function that safely accesses a value in a dictionary and returns a default value if the key does not exist.
+
+Question 15: How can you ensure a block of code always executes after a try-except block, regardless of whether an exception was raised or not?
